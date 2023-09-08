@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Herbert Pro",
-    "label": "Desarrollador Full Stack",
+    "label": "Full stack developer",
     "picture": "https://github.com/herbertpro.png",
     "email": "herbertprocastillo@icloud.com",
     "phone": "(51)-948162010",
@@ -15,7 +15,7 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/hprocastillo" }
     ]
   },
-  "interests": [
+  "intereses": [
     { "name": "Desarrollo de Software" },
     { "name": "Ciencia de datos" },
     { "name": "IOT" },
