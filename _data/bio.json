@@ -1,46 +1,42 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Herbert Pro",
+    "label": "Desarrollador Full Stack",
+    "picture": "https://github.com/herbertpro.png",
+    "email": "herbertprocastillo@icloud.com",
+    "phone": "(51)-948162010",
+    "website": "https://herbertpro.github.io",
+    "summary": "Ingeniero informático, con más de 10 años de experiencia asesorando e implementando soluciones de TI.",
+    "location": { "address": "", "postalCode": "15054", "city": "Lima", "countryCode": "PERU", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/herbertpro" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/hprocastillo" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/hprocastillo" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/hprocastillo" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+  "intereses": [
+    { "name": "Desarrollo de Software" },
+    { "name": "Ciencia de datos" },
+    { "name": "IOT" },
+    { "name": "IA" },
+    { "name": "Aprendizaje Continuo" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Lenguajes",
+      "keywords": [ "JS", "TS", "PHP", "PY", "HTML5", "CSS"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Frameworks y Librerias",
+      "keywords": [ "Angular, Laravel, AngularFire, Material, Bootstrap" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "Institución": "Universidad Autónoma del Perú",
+      "Especialidad": "Ingenieria de sistemas",
+      "Egregado": "Diciembre 2021"      
     }
   ],
   "work": [
