@@ -15,7 +15,7 @@
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/hprocastillo" }
     ]
   },
-  "intereses": [
+  "interests": [
     { "name": "Desarrollo de Software" },
     { "name": "Ciencia de datos" },
     { "name": "IOT" },
