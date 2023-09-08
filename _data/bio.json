@@ -6,21 +6,23 @@
     "email": "herbertprocastillo@icloud.com",
     "phone": "(51)-948162010",
     "website": "https://herbertpro.github.io",
-    "summary": "Ingeniero informático, con más de 10 años de experiencia asesorando e implementando soluciones de TI.",
+    "summary": "Desarrollador con más de 10 años de experiencia implementando soluciones de TI.",
     "location": { "address": "", "postalCode": "15054", "city": "Lima", "countryCode": "PERU", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/herbertpro" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/hprocastillo" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/hprocastillo" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/hprocastillo" }
+      { "network": "github", "username": "herbertpro", "url": "http://github.com/herbertpro" },
+      { "network": "linkedin", "username": "hprocastillo", "url": "http://linkedin.com/in/hprocastillo" },
+      { "network": "twitter", "username": "hprocastillo", "url": "http://twitter.com/hprocastillo" },
+      { "network": "instagram", "username": "hprocastillo", "url": "http://instagram.com/hprocastillo" }
     ]
   },
-  "intereses": [
-    { "name": "Desarrollo de Software" },
-    { "name": "Ciencia de datos" },
+  "interests": [
+    { "name": "Frontend" },
+    { "name": "Backend" },
+    { "name": "Cloud Functions" },
+    { "name": "Ux/Ui" },
+    { "name": "Data scients" },
     { "name": "IOT" },
-    { "name": "IA" },
-    { "name": "Aprendizaje Continuo" }
+    { "name": "Machine Learning" }    
   ],
   "skills": [
     {
@@ -29,7 +31,7 @@
     },
     {
       "name": "Frameworks y Librerias",
-      "keywords": [ "Angular, Laravel, AngularFire, Material, Bootstrap" ]
+      "keywords": [ "Angular, Laravel, AngularFire, NodeJS, Material, Bootstrap" ]
     }
   ],
   "education": [
