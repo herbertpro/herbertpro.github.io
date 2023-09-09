@@ -52,13 +52,13 @@ layout: home
     </div>
 
     {% if site.data.bio.skills %}
-    <div class="row pt-4 align-items-center">
+    <div class="row pt-4 align-items-center mb-3">
       <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Skills</h1>
+        <h1 class="display-6 text-start m-0">Habilidades</h1>
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.skills %}
-          <p class="m-0">
+          <p class="mb-3">
             <b>{{ entry.name }}:</b>
               {% for keyword in entry.keywords %}
                 {{ keyword }}{% if forloop.last != true %}, {% endif %}
