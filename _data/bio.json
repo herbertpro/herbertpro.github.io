@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Herbert Pro",
+    "label": "Full stack developer",
+    "picture": "https://github.com/herbertpro.png",
+    "email": "hprocastillo@gmail.com",
+    "phone": "(51) - 948-162010",
+    "website": "https://herbertpro.github.io",
+    "summary": "Desarrollador con más de 10 años de experiencia implementando soluciones de TI.",
+    "location": { "address": "", "postalCode": "", "city": "Lima", "countryCode": "PERU", "region": "" },
+    "profiles": [
+      { "network": "github", "username": "hprocastillo", "url": "http://github.com/hprocastillo" },
+      { "network": "linkedin", "username": "hprocastillo", "url": "http://linkedin.com/in/hprocastillo" },
+      { "network": "twitter", "username": "hprocastillo", "url": "http://twitter.com/hprocastillo" },
+      { "network": "instagram", "username": "hprocastillo", "url": "http://instagram.com/hprocastillo" }
+    ]
+  },
+  "interests": [
+    { "name": "Frontend" },
+    { "name": "Backend" },
+    { "name": "Cloud Functions" },
+    { "name": "Ux/Ui" },
+    { "name": "Data scients" },
+    { "name": "IOT" },
+    { "name": "Machine Learning" }    
+  ],
+  "skills": [
+    {
+      "name": "Lenguajes",
+      "keywords": ["Javascript", "Typescript", "PHP", "Python", "HTML5", "CSS"]
+    },
+    {
+      "name": "Frameworks y Librerias",
+      "keywords": ["Angular, Ionic, AngularFire, Laravel, Bootstrap, Material"]
+    },
+    {
+      "name": "Deploy y DB",
+      "keywords": ["NodeJs, Nginx, Firebase, Mysql, Sql Server"]
+    }
+  ],
+  "education": [
+    {
+      "Institución": "Universidad Autónoma del Perú",
+      "Especialidad": "Ingenieria de sistemas",
+      "Egregado": "2021-12-01"      
+    },
+    {
+      "Institución": "Platzi",
+      "Especialidad": "Aprendizaje continuo",
+      "Egregado": "Mayo 2020 - Presente"      
+    }
+  ],
+  "work": [
+    {
+      "company": "HBC Logistics",
+      "position": "Full stack developer",
+      "website": "hbclogistic.com",
+      "startDate": "2021-04-01",
+      "endDate": "Present",
+      "summary": "Desarrollo e implementación de Website, Sistema Intranet y Servidor de correos profesional",
+      "highlights": [
+        "Desarrollo de Website institucional",
+        "Desarrollo de sistema intranet para la gestion de clientes y proveedores",
+        "Implementación de sistema de correos profesional"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
