@@ -36,7 +36,7 @@ layout: home
       </div>
     </div>
 
-    <div class="row pt-4 align-items-center bg-primary mb-3">
+    <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Intereses</h1>
       </div>
@@ -50,10 +50,12 @@ layout: home
         </p>
       </div>
     </div>
+    
+    <hr class="text-muted"> 
 
     
     {% if site.data.bio.skills %}
-    <div class="row pt-4 align-items-center bg-warning mb-3">
+    <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Habilidades</h1>
       </div>
@@ -70,6 +72,7 @@ layout: home
     </div>
     {% endif %}
 
+    <hr class="text-muted">  
     
     
     {% if site.data.bio.education %}
@@ -114,6 +117,10 @@ layout: home
     </div>
     {% endif %}
 
+    
+    <hr class="text-muted">
+
+    
     {% if site.data.bio.work %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
