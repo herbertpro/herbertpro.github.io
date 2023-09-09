@@ -4,10 +4,10 @@
     "label": "Full stack developer",
     "picture": "https://github.com/herbertpro.png",
     "email": "hprocastillo@gmail.com",
-    "phone": "(51)-948162010",
+    "phone": "(51) - 948-162010",
     "website": "https://herbertpro.github.io",
     "summary": "Desarrollador con más de 10 años de experiencia implementando soluciones de TI.",
-    "location": { "address": "", "postalCode": "15054", "city": "Lima", "countryCode": "PERU", "region": "" },
+    "location": { "address": "", "postalCode": "", "city": "Lima", "countryCode": "PERU", "region": "" },
     "profiles": [
       { "network": "github", "username": "hprocastillo", "url": "http://github.com/herbertpro" },
       { "network": "linkedin", "username": "hprocastillo", "url": "http://linkedin.com/in/hprocastillo" },
@@ -27,11 +27,15 @@
   "skills": [
     {
       "name": "Lenguajes",
-      "keywords": [ "JS", "TS", "PHP", "PY", "HTML5", "CSS"]
+      "keywords": ["Javascript", "Typescript", "PHP", "Python", "HTML5", "CSS"]
     },
     {
       "name": "Frameworks y Librerias",
-      "keywords": [ "Angular, Firebase, AngularFire, NodeJS, Material, Bootstrap, Laravel" ]
+      "keywords": ["Angular, Ionic, AngularFire, Laravel, Bootstrap, Material"]
+    },
+    {
+      "name": "Deploy y DB",
+      "keywords": ["NodeJs, Nginx, Firebase, Mysql, Sql Server"]
     }
   ],
   "education": [
@@ -39,19 +43,25 @@
       "Institución": "Universidad Autónoma del Perú",
       "Especialidad": "Ingenieria de sistemas",
       "Egregado": "Diciembre 2021"      
+    },
+    {
+      "Institución": "Platzi",
+      "Especialidad": "Aprendizaje continuo",
+      "Egregado": "Mayo 2020 - Presente"      
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "HBC Logistics",
+      "position": "Full stack developer",
+      "website": "hbclogistic.com",
+      "startDate": "Abril 2021",
+      "endDate": "Presente",
+      "summary": "Desarrollo e implementación de Website, Sistema Intranet y Servidor de correos profesional",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Desarrollo de Website institucional",
+        "Desarrollo de sistema intranet para la gestion de clientes y proveedores",
+        "Implementación de sistema de correos profesional"
       ]
     },
     {
